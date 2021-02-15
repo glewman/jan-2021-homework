@@ -30,7 +30,6 @@ return {
 }
 let pizzaDone = preparePizza("Large", "Thin", "Bacon");
 
-
 function servePizza(pizza) {
 let order = `Order up! Here's your ${pizza.size}, ${pizza.crust} pizza with, `;
 for (let topping of pizza.toppings){
