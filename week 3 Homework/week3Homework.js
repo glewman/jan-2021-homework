@@ -12,7 +12,7 @@ function getPizzaOrder(size, crust, ...toppings) {
     let order =`One ${size} ${crust} crust pizza with `;
     for (let topping of pizzaToppings) {
         order +=` ${topping} `           }
-    console.log(`${order}. Coming up!`);   
+    console.log(`${order}. Coming up!`);
     return [size, crust, toppings];
 }
 let myOrder = getPizzaOrder("Medium", "Thin", "Bacon");
