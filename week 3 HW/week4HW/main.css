@@ -1,0 +1,91 @@
+title {
+   font-size: 18;
+  color: black;
+  text-align: center;
+}
+header{
+  background-color: royalblue;
+  font-size: 30;
+  color: white;
+  padding: 4px;
+  border: 3px solid white;
+  box-shadow: 2px 2px 7px 1px white;
+  opacity: .9;
+  text-align: center;
+
+}
+.List {
+  text-align: center;
+  font-size: 16;
+    color: white;
+    padding: 4px;
+  border: 3px solid white;
+  box-shadow: 2px 2px 7px 1px white;
+  margin: 21.440px 70px 21.440px 70px;
+}
+#Intro {
+  font-size: 14;
+  color: white;
+ background-color:#B3003B ;
+ opacity: .75;
+ padding: 4px;
+ border: 3px solid white;
+ box-shadow: 2px 2px 7px 1px white;
+}
+#Closing {
+  text-align: center;
+  font-size: 14;
+  color: white;
+ background-color:#B3003B ;
+ opacity: .75;
+ padding: 4px;
+ border: 3px solid white;
+ box-shadow: 2px 2px 7px 1px white;
+ margin-top: 1px;
+}
+ul li {
+    color: white;
+  font-size: 20;
+  margin: auto;
+    }
+html {
+ background: url(https://www.teahub.io/photos/full/90-903838_plants-5-4k-hd-desktop-wallpaper-for.jpg);
+}
+ .holder1 img {
+  max-height: 100px;
+  max-width: 100px;
+  object-fit: cover; 
+  }
+ .holder2 img {
+  max-height: 100px;
+  max-width: 100px;
+  object-fit: cover; 
+  padding: 0 400 0 20;
+   }
+
+ul {
+  float: right;
+   width: 50%;
+   padding: 10px color: white; 
+   margin-bottom: 50px;
+} 
+  
+ol {
+  float: right;
+  width: 50%;
+  padding: 2px 10px 2px 10px; 
+  color: white;
+  margin: 0;
+}
+footer{
+  text-align: center;
+  font-size: 8;
+  color: white;
+}
+a{
+  color: yellow;
+}
+li + li {
+  margin-top: 60px;
+ }
+ 
